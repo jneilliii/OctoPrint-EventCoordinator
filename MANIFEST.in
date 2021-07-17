@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_eventcoordinator/templates *
+recursive-include octoprint_eventcoordinator/translations *
+recursive-include octoprint_eventcoordinator/static *
